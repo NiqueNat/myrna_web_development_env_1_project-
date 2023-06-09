@@ -18,14 +18,14 @@ section {
 
 .about {
     height: 800px;
-    background: url('..assets/images/aboutme.png') rgba(176, 176, 250, 0.5);
+    background-image: url('..assets/images/aboutme.png');
     height: 800px;
     background-position: center;
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-blend-mode: overlay;
+
 }
 
 h1 {
