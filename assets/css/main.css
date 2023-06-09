@@ -57,7 +57,7 @@ p {
 }
 
 .about {
-    background-image: url(assets\images\aboutMe.png\images\welcome.png);
+    background-image: url('..assets\images\aboutMe.png');
     background-position: center;
     background-size: cover;
     justify-content: center;
@@ -66,7 +66,7 @@ p {
 }
 
 .learning {
-    background-image: url(assets\images\onlinelearning.jpg\images\aboutMe.png\images\welcome.png);
+    background-image: url('..assets\images\onlinelearning.jpg');
     background-position: center;
     background-size: cover;
     justify-content: center;
@@ -75,7 +75,7 @@ p {
 }
 
 .resources {
-    background-image: url(assets\images\10-top-elearning-resources-that-help-you-learn-anything-today.jpeg);
+    background-image: url('..assets\images\10-top-elearning-resources-that-help-you-learn-anything-today.jpeg');
     background-position: center;
     background-size: cover;
     justify-content: center;
