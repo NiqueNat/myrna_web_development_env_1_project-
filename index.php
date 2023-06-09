@@ -22,9 +22,9 @@
 </header>  
 
       <section class="welcome">
-    <div class="text-box">
+    <div class="container">
         <h1>Building the Online Student</h1>
-        <p>Like the facilitator, the online student possesses unique qualities. The online students of today consist primarily of working people who are trying to better their opportunities. This however is changing, as more and more young and older people become aware of the online model. The traditional school will never go away, but the virtual classroom is a significant player in today’s educational community. Corporations are using the online model to train technical professionals while private and public universities redefine the world as their markets. The market for students is expanding rapidly. In general, the online student should possess the following qualities:
+        <p>Like the facilitator, the online student possesses unique qualities. The online students of today consist primarily of working people who are trying to better their opportunities.</p>
             <br>
         Be open minded about sharing life, work, and educational experiences as part of the learning process. Introverts as well as extroverts find that the online process requires them to utilize their experiences. This forum for communication eliminates the visual barriers that hinder some individuals in expressing themselves. In addition, the student is given time to reflect on the information before responding. The online environment should be open and friendly.</p>
     </div>
