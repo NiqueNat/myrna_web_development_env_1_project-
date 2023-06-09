@@ -13,10 +13,8 @@ body {
 
 section {
     padding: 80px 0;
-    text-align: center;
     margin-top: auto;
     margin-bottom: auto;
-    display: inline;
 }
 
 h1 {
@@ -34,8 +32,16 @@ p {
     padding: 15px 0;
 }
 
+.text-box {
 
-.section {
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: inline;
+    color: white;
+}
+
+.container {
     max-width: 1000px;
     width: 90%;
     margin-left: auto;
@@ -74,5 +80,6 @@ p {
     background-position: center;
     background-size: cover;
     justify-content: center;
+    display: flex;
     align-items: center;
 }
