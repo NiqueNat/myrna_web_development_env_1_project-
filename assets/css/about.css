@@ -48,7 +48,7 @@ p {
     text-align: center;
     margin-top: auto;
     margin-bottom: auto;
-    display: inline-block;
+    display: inline;
     color: black;
     padding: 80px 0;
 }
