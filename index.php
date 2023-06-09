@@ -22,7 +22,7 @@
 </header>  
 
       <section class="welcome">
-    <div class="container">
+    <div class="text-box">
         <h1>Building the Online Student</h1>
         <p>Like the facilitator, the online student possesses unique qualities. The online students of today consist primarily of working people who are trying to better their opportunities. This however is changing, as more and more young and older people become aware of the online model. The traditional school will never go away, but the virtual classroom is a significant player in today’s educational community. Corporations are using the online model to train technical professionals while private and public universities redefine the world as their markets. The market for students is expanding rapidly. In general, the online student should possess the following qualities:
             <br>
@@ -31,7 +31,7 @@
     </section>
 
     <section class="learning">
-        <div class="courses">
+        <div class="container">
             <h1>Embrace Online Learning</h1>
             <p>Embrace that high quality learning can take place without going to a traditional classroom. If the student feels that a traditional classroom is a prerequisite to learning, they may be more comfortable in the traditional classroom. Online is not for everybody. A student that wants to be on a traditional campus attending a traditional classroom is probably not going to be happy online. While the level of social interaction can be very high in the virtual classroom given that many barriers come down in the online format, it is not the same as living in a dorm on a campus. This should be made known. An online student is expected to:
                 <ol>
@@ -47,7 +47,7 @@
     </section>
 
     <section class="resources">
-        <div class="free-resources">
+        <div class="container">
             <h1>Top eLearning Resources For Effective Learning Today</h1>
             <p>What are some of the resources available for online learning? Below are just a few of the options available to you;
                 <ul>
