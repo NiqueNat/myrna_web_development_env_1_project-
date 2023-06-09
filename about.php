@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>myrna_web_development_env_1_project</title>
 
-    
+    <link rel="stylesheet" href="CSS/main.css">
       <style><?php include 'CSS/main.css'; ?></style>
 </head>
 
