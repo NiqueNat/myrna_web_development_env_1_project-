@@ -58,7 +58,7 @@ p {
 }
 
 .about {
-    background-image: url('..assets/images/aboutMe.png');
+    background-image: url('...assets/images/aboutMe.png');
     background-position: center;
     background-size: cover;
     justify-content: center;
