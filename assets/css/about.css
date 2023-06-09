@@ -17,12 +17,14 @@ section {
 }
 
 .about {
-    background-image: url('../images/aboutme.png');
+    height: 800px;
+    background: url('../images/aboutme.png') rgba(184, 177, 152, 0.5);
     background-position: center;
     background-size: cover;
-    justify-content: center;
     display: flex;
+    justify-content: center;
     align-items: center;
+    background-blend-mode: overlay;
 }
 
 h1 {
