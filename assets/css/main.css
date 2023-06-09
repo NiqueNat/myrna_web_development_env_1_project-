@@ -40,9 +40,12 @@ p {
 
 .welcome {
     background: url('../images/welcome.png') rgba(225, 246, 250, 0.5);
-    height: 800px;
-    background-position: center;
+    min-height: 100vh;
+    padding: 50px 0;
     background-size: cover;
+    background-position: center;
+    margin-top: auto;
+    margin-bottom: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,9 +55,12 @@ p {
 
 .learning {
     background: url('../images/onlinelearning.jpg') rgba(225, 246, 250, 0.5);
-    height: 800px;
-    background-position: center;
+    min-height: 100vh;
+    padding: 50px 0;
     background-size: cover;
+    background-position: center;
+    margin-top: auto;
+    margin-bottom: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -62,11 +68,15 @@ p {
 }
 
 .resources {
-    background: rgba(225, 246, 250, 0.5);
-    height: 800px;
-    background-position: center;
+    background: url('../images/10-top-elearning-resources-that-help-you-learn-anything-today.jpeg')(225, 246, 250, 0.5);
+    min-height: 100vh;
+    padding: 50px 0;
     background-size: cover;
+    background-position: center;
+    margin-top: auto;
+    margin-bottom: auto;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-blend-mode: overlay;
 }

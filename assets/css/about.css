@@ -17,14 +17,18 @@ section {
 }
 
 .about {
-    height: 800px;
+
     background-image: url('../images/aboutme.png');
-    height: 800px;
-    background-position: center;
+    min-height: 100vh;
+    padding: 50px 0;
     background-size: cover;
+    background-position: center;
+    margin-top: auto;
+    margin-bottom: auto;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-blend-mode: overlay;
 
 }
 
