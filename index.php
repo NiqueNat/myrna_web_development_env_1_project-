@@ -1,5 +1,5 @@
 
-
+<?php include 'header.php'; ?>
 
 
 <!DOCTYPE html>
@@ -17,7 +17,7 @@
 <body>
 
 <header>
-    <a href="index.php">Welcome</a>
+    <a href="about">Welcome</a>
     <a href="about.php">About</a>
 </header>  
 
