@@ -51,7 +51,7 @@ p {
 
 
 .learning {
-    background: rgba(225, 246, 250, 0.5);
+    background: url('../images/onlinelearning.jpg') rgba(225, 246, 250, 0.5);
     height: 800px;
     background-position: center;
     background-size: cover;
@@ -62,12 +62,11 @@ p {
 }
 
 .resources {
-    background: url('../images/10-top-elearning-resources-that-help-you-learn-anything-today.jpeg') rgba(225, 246, 250, 0.5);
+    background: rgba(225, 246, 250, 0.5);
     height: 800px;
     background-position: center;
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-blend-mode: overlay;
 }
