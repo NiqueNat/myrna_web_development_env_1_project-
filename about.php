@@ -1,5 +1,5 @@
 <?php include 'header.php'; ?>
-<style><?php include 'assets/css/main.css';?></style>
+
 
 <!DOCTYPE html>
 <html lang="en">
