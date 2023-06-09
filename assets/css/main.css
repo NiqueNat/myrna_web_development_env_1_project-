@@ -6,7 +6,7 @@
 
 body {
     font-family: serif;
-    color: rgb(216, 243, 247);
+    background-color: rgb(216, 243, 247);
 }
 
 
@@ -31,15 +31,6 @@ p {
     padding: 15px 0;
 }
 
-.text-box {
-
-    text-align: center;
-    margin-top: auto;
-    margin-bottom: auto;
-    display: inline;
-    color: white;
-}
-
 .container {
     max-width: 1000px;
     width: 90%;
@@ -56,14 +47,6 @@ p {
     align-items: center;
 }
 
-.about {
-    background-image: url('../images/aboutme.png');
-    background-position: center;
-    background-size: cover;
-    justify-content: center;
-    display: flex;
-    align-items: center;
-}
 
 .learning {
     background-image: url('../images/onlinelearning.jpg');
