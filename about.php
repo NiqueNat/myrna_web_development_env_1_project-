@@ -1,7 +1,3 @@
-<?php include 'header.php'; ?>
-<style>
-<?php include 'CSS/main.css'; ?>
-</style>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -12,6 +8,9 @@
     <title>myrna_web_development_env_1_project</title>
 </head>
 <body>
+    <header>
+    <a href="index.php">Welcome</a>
+</header> 
     <section class="about">
     <div class="text-box">
         <h1>About Me</h1>
