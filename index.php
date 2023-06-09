@@ -17,7 +17,7 @@
 <body>
 
 <header>
-    <a href="about">Welcome</a>
+    <a href="index.php">Welcome</a>
     <a href="about.php">About</a>
 </header>  
 
