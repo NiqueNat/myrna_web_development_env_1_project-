@@ -1,8 +1,3 @@
-.golden-text-on-black-bg {
-    color: goldenrod;
-    background-color: black;
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -52,18 +47,38 @@ p {
     margin-right: auto;
 }
 
-.free-resources {
-    background-image: url('../images/onlinelearning.jpg');
-}
-
-.courses {
-    background-image: url('../images/10-top-elearning-resources-that-help-you-learn-anything-today.jpeg');
-}
-
 .welcome {
-    background-image: url('../images/welcome.png');
+    background-image: url(assets\images\welcome.png);
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+    align-items: center;
 }
 
 .about {
-    background-image: url('../images/aboutMe.png');
+    background-image: url(assets\images\aboutMe.png\images\welcome.png);
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.learning {
+    background-image: url(assets\images\onlinelearning.jpg\images\aboutMe.png\images\welcome.png);
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.resources {
+    background-image: url(assets\images\10-top-elearning-resources-that-help-you-learn-anything-today.jpeg);
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+    align-items: center;
 }
