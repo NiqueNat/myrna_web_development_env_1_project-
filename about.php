@@ -1,3 +1,8 @@
+<?php include 'header.php'; ?>
+<style>
+<?php include 'CSS/main.css'; ?>
+</style>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

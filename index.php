@@ -1,3 +1,8 @@
+<?php include 'header.php'; ?>
+<style>
+<?php include 'CSS/main.css'; ?>
+</style>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,9 +12,14 @@
     <title>myrna_web_development_env_1_project</title>
 
     <link rel="stylesheet" href="CSS/main.css" type="text/css">
-    <link rel="stylesheet" href="about.php">
+    <link rel="about.php" href='..about.php'>
 
 <body>
+
+<header>
+    <a href="about.php">About</a>
+</header>  
+
       <section class="welcome">
     <div class="container">
         <h1>Building the Online Student</h1>
