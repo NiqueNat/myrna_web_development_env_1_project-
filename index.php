@@ -1,4 +1,5 @@
 <?php include 'header.php'; ?>
+<style><?php include 'assets/css/main.css';?></style>
 
 
 <!DOCTYPE html>
@@ -10,12 +11,13 @@
     <title>myrna_web_development_env_1_project</title>
 
     <link rel="stylesheet" href="https://assets/css/main.css">
-    <style><?php include 'assets/css/main.css';?></style>
+    
 </head>
 
 <body>
 
 <header>
+    <a href="index.php">Welcome</a>
     <a href="about.php">About</a>
 </header>  
 
