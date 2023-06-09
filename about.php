@@ -8,14 +8,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>myrna_web_development_env_1_project</title>
 
-    <link rel="stylesheet" href="CSS/main.css">
-      <style><?php include 'CSS/main.css'; ?></style>
+    <link rel="stylesheet" href="assets/css/main.css">
+      <style><?php include 'assets/css/main.css'; ?></style>
 </head>
 
 <body>
     <header>
-    <a href="index.php">Welcome</a>
-</header> 
+    <a href="about.php">Welcome</a>
+    <a href="about.php">About</a>
+    </header>
     <section class="about">
     <div class="text-box">
         <h1>About Me</h1>
