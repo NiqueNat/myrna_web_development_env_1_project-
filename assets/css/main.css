@@ -40,29 +40,34 @@ p {
 
 .welcome {
     background-image: url('../images/welcome.png');
+    height: 800px;
     background-position: center;
     background-size: cover;
-    justify-content: center;
     display: flex;
+    justify-content: center;
     align-items: center;
-    max-height: 100vh;
+    background-blend-mode: overlay;
 }
 
 
 .learning {
     background-image: url('../images/onlinelearning.jpg');
+    height: 800px;
     background-position: center;
     background-size: cover;
-    justify-content: center;
     display: flex;
+    justify-content: center;
     align-items: center;
+    background-blend-mode: overlay;
 }
 
 .resources {
     background-image: url('../images/elearning.jpeg');
+    height: 800px;
     background-position: center;
     background-size: cover;
-    justify-content: center;
     display: flex;
+    justify-content: center;
     align-items: center;
+    background-blend-mode: overlay;
 }

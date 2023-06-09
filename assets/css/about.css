@@ -19,6 +19,7 @@ section {
 .about {
     height: 800px;
     background: url('..assets/images/aboutme.png') rgba(184, 177, 152, 0.5);
+    height: 800px;
     background-position: center;
     background-size: cover;
     display: flex;
