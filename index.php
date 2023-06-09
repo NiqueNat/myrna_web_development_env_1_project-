@@ -30,7 +30,7 @@
     </div>
     </section>
 
-    <section class="Learning">
+    <section class="learning">
         <div class="courses">
             <h1>Embrace Online Learning</h1>
             <p>Embrace that high quality learning can take place without going to a traditional classroom. If the student feels that a traditional classroom is a prerequisite to learning, they may be more comfortable in the traditional classroom. Online is not for everybody. A student that wants to be on a traditional campus attending a traditional classroom is probably not going to be happy online. While the level of social interaction can be very high in the virtual classroom given that many barriers come down in the online format, it is not the same as living in a dorm on a campus. This should be made known. An online student is expected to:

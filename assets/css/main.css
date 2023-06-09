@@ -6,7 +6,8 @@
 
 body {
     font-family: serif;
-    color: paleturquoise;
+    background-color: rgb(209, 226, 226);
+
 }
 
 
@@ -36,7 +37,7 @@ p {
     text-align: center;
     margin-top: auto;
     margin-bottom: auto;
-    display: inline-block;
+    display: inline;
     color: white;
 }
 
