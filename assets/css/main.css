@@ -39,7 +39,7 @@ p {
 }
 
 .welcome {
-    background-image: url('../images/welcome.png') rgba(225, 246, 250, 0.5);
+    background: url('../images/welcome.png') rgba(225, 246, 250, 0.5);
     height: 800px;
     background-position: center;
     background-size: cover;
@@ -51,7 +51,7 @@ p {
 
 
 .learning {
-    background-image: url('../images/onlinelearning.jpg') rgba(225, 246, 250, 0.5);
+    background: url('../images/onlinelearning.jpg') rgba(225, 246, 250, 0.5);
     height: 800px;
     background-position: center;
     background-size: cover;
@@ -62,7 +62,7 @@ p {
 }
 
 .resources {
-    background-image: url('../images/10-top-elearning-resources-that-help-you-learn-anything-today.jpeg') rgba(225, 246, 250, 0.5);
+    background: url('../images/10-top-elearning-resources-that-help-you-learn-anything-today.jpeg') rgba(225, 246, 250, 0.5);
     height: 800px;
     background-position: center;
     background-size: cover;
