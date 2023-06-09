@@ -18,7 +18,7 @@ section {
 
 .about {
     height: 800px;
-    background-image: url('..assets/images/aboutme.png');
+    background-image: url('../images/aboutme.png');
     height: 800px;
     background-position: center;
     background-size: cover;
