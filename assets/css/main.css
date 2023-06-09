@@ -48,7 +48,7 @@ p {
 }
 
 .welcome {
-    background-image: url(assets\images\welcome.png);
+    background-image: url('..assets\images\welcome.png');
     background-position: center;
     background-size: cover;
     justify-content: center;
