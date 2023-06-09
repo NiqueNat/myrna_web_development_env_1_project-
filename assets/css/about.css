@@ -10,10 +10,8 @@ body {
 }
 
 
-section {
+.section {
     padding: 80px 0;
-    margin-top: auto;
-    margin-bottom: auto;
 }
 
 .about {
@@ -48,13 +46,10 @@ p {
 }
 
 .text-box {
-
     text-align: center;
     margin-top: auto;
     margin-bottom: auto;
-    display: inline;
-    color: black;
-    padding: 80px 0;
+    display: inline-block;
 }
 
 .container {
