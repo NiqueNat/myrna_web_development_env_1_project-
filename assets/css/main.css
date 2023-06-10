@@ -94,14 +94,14 @@ p {
 
 .learning {
 
-    background: lightblue;
+    background: rgb(219, 227, 240);
 }
 
 .learning-flex {
 
     display: flex;
-    flex-wrap: wrap;
-    gap: 30px;
+
+    gap: 20px;
 
 }
 
@@ -146,10 +146,14 @@ p {
     padding: 150px 0;
     background: salmon;
     text-align: center;
+
 }
 
 .cta-contain {
-    max-width: 600px;
+    max-width: 900px;
+    align-items: center;
+    justify-content: center;
+
 }
 
 .cta h3 {
