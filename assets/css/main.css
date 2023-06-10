@@ -73,7 +73,7 @@ p {
 .welcome {
     min-height: 100vh;
     padding: 150px 0;
-    background: url(../images/welcome.png) rgba(0, 0, 200, 0.192);
+    background: url(../images/welcome.png) rgba(0, 0, 200, 0.495);
     background-size: cover;
     background-position: center;
     display: flex;
