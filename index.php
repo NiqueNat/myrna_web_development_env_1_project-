@@ -16,12 +16,6 @@
 
 <body>
 
-<header>
-    <a href="index.php">Welcome</a>
-    <a href="about.php">About</a>
-</header>  
-
-
 <header class="page-header">
 		<div class="container">
 			<div class="header-flex">
