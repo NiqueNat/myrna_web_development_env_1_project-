@@ -16,22 +16,27 @@
     <a href="index.php">Welcome</a>
     <a href="about.php">About</a>
     </header>
-    <section class="about">
-    <div class="container">
+
+
+    <section class="banner">
+    <div class="text-b0x">
         <h1>About Me</h1>
-        <p>As an online student I have be resilient and determined as a key factors in success. </p>
     </div>
     </section>
 
-    <section class="info">
+    <section class="about">
           <h2>Determination</h2>
-        <div class="info-flex">
+        <div class="container">
+        <div class="about-flex">
           
-            <div class="left"></div>
-            <div class="right">
-            <p>Adult learners face many obstacles and setbacks, such as work and family responsibilities, financial constraints, and personal challenges.</p>
-            </div>
+        <div class="left"></div>
+        <div class="right">
+                <p>As an online student I have be resilient and determined as a key factors in success. </p>
+
+                <p>Adult learners face many obstacles and setbacks, such as work and family responsibilities, financial constraints, and personal challenges.</p>
+        </div>
                 
+        </div>
         </div>
     </section>
      
