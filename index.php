@@ -63,6 +63,7 @@
             <p>Embrace that high quality learning can take place without going to a traditional classroom. If the
             student feels that a traditional classroom is a prerequisite to learning, they may be more comfortable
             in the traditional classroom. Online is not for everybody. </p>
+            <br>
     </div>
  
             <div class="info">
@@ -75,6 +76,7 @@
             <li>Be able to complete assignments on time</li>
             <li>Enjoy communicating in writing</li>
             </ol>
+            <br>
             </div>
      
             <div class="info">
@@ -85,6 +87,7 @@
             high in the virtual classroom given that many barriers come down in the
             online format, it is not the same as living in a dorm on a campus. This should be made known. An online
             student is expected to:</p>
+            <br>
             </div>
          
             </div>
