@@ -5,7 +5,7 @@
 }
 
 body {
-    color: rgb(89, 89, 175);
+    color: rgb(4, 12, 58);
 }
 
 section {
@@ -57,7 +57,7 @@ p {
 
 .header-menu a {
     text-decoration: none;
-    color: rgb(6, 18, 83);
+    color: rgb(4, 12, 58);
 }
 
 .andres {
@@ -73,7 +73,7 @@ p {
 .welcome {
     min-height: 100vh;
     padding: 150px 0;
-    background: url(../images/welcome.png) rgba(99, 99, 134, 0.195);
+    background: url(../images/welcome.png) rgba(99, 99, 134, 0.199);
     background-size: cover;
     background-position: center;
     display: flex;
