@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: serif;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: white;
 }
 
@@ -14,7 +14,7 @@ body {
     padding: 80px 0;
 }
 
-.flex {
+.info {
     background-color: rgb(250, 224, 145);
     margin-top: auto;
     margin-bottom: auto;
