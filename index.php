@@ -27,8 +27,7 @@
 			<div class="header-flex">
 				<div class="logo">
 					<a href="index.html">
-						<img src="https://artstartsto.com/wp-content/uploads/2022/06/toronto-logo-png-transparent-e1663874591459.png" alt="">
-					</a>
+						
 				</div>
 
 				<div class="andres">
