@@ -57,14 +57,14 @@ p {
 
 .header-menu a {
     text-decoration: none;
-    color: green;
+    color: rgb(6, 18, 83);
 }
 
 .andres {
     display: none;
 }
 
-.textbox {
+.container {
     text-align: center;
     max-width: 500px;
     width: 90%;
