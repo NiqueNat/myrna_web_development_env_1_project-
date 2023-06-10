@@ -115,6 +115,28 @@ p {
     width: 50%;
 }
 
+
+.cta {
+    padding: 100px 0;
+    background: rgb(153, 198, 235);
+    text-align: center;
+
+}
+
+.cta-contain {
+
+    align-items: center;
+    justify-content: center;
+
+}
+
+.cta h3 {
+    font-size: 30px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+
 @media only screen and (max-width: 800px) {
 
     .card {

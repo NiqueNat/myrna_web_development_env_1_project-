@@ -56,6 +56,45 @@
         </div>
         </div>
     </section>
-        
+        <section class="cta">
+        <div class="cta-contain">
+        <div class="resources">
+        <h3>Top eLearning Resources For Effective Learning Today</h3>
+        <ul>
+        <li>Coursera</li>
+        <li>edX</li>
+        <li>YouTube</li>
+        <li>Lynda</li>
+        <li>Udemy</li>
+        <li>Alison</li>
+        <li>Khan Academy</li>
+        <li>MIT Open Courseware</li>
+        <li>Open Culture</li>
+        <li>Free Code camp</li>
+        </ul>
+
+        <a href="">Resources</a>
+        </div>
+        </div>
+        </section>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"
+        integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+        <script>
+        $(window).scroll(function () {
+        var scroll = $(window).scrollTop();
+
+        if (scroll >= 100) {
+        $(".page-header").addClass("has-bg");
+        } else {
+        $(".page-header").removeClass("has-bg");
+        }
+        });
+        </script>
+        </body>
+
+        </html>
     </body>
     </html>
