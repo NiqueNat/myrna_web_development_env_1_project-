@@ -15,7 +15,7 @@ body {
 }
 
 .flex {
-    background-color: rgb(247, 239, 216);
+    background-color: rgb(250, 224, 145);
     margin-top: auto;
     margin-bottom: auto;
     text-align: center;
@@ -28,6 +28,7 @@ body {
     margin-bottom: auto;
     display: flex;
     gap: 30px;
+    padding: 15px 0;
 
 }
 
