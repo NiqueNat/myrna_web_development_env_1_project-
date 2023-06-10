@@ -85,6 +85,7 @@ body {
 .learning-flex {
 
     display: flex;
+    flex-wrap: wrap;
     gap: 50px;
 
 }
@@ -108,7 +109,7 @@ body {
 
 
 .learning {
-
+    width: calc((100% - 60px) / 4);
     border: 1px solid rgb(216, 215, 215);
 }
 
@@ -120,7 +121,7 @@ body {
 }
 
 .learning .left {
-    padding: 10px 20px 30px;
+    padding: 10px 10px;
     background: white;
     text-align: center;
     width: 50%;
