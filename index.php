@@ -41,8 +41,6 @@
 <section class="welcome">
 <div class="container">
     <h1>Building the Online Student</h1>
-    <p>Like the facilitator, the online student possesses unique qualities. The online students of today consist
-        primarily of working people who are trying to better their opportunities.</p>
 </div>
 </section>
 
