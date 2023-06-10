@@ -63,6 +63,7 @@ p {
     margin-right: auto;
     display: inline-block;
     text-align: center;
+    border: 5px solid black;
 }
 
 .left {
