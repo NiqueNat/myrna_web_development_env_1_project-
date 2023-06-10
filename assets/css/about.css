@@ -93,7 +93,7 @@ p {
 
 .about {
 
-    background: lightgrey;
+    background: rgb(250, 249, 249);
 }
 
 .about-flex {
@@ -106,7 +106,7 @@ p {
 .left {
     width: 50%;
     height: 300px;
-    background-image: url('../images/blue library.jpg');
+    background-image: url('../images/Embrace.png');
     background-size: cover;
     background-position: center;
 }
