@@ -20,7 +20,7 @@ body {
 .banner {
 
     height: 800px;
-    background: url(../images/determination.png) rgba(171, 192, 248, 0.315);
+    background: url(../images/aboutme.png) rgba(171, 192, 248, 0.315);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -48,12 +48,6 @@ body {
 
 }
 
-
-.image {
-    height: 400px;
-    background-size: cover;
-    background-position: center;
-}
 
 h1 {
 
@@ -84,7 +78,10 @@ p {
 
 .left {
     width: 50%;
-    background-image: url('../images/aboutme.png');
+    background-image: url('../images/determination.png');
+    height: 400px;
+    background-size: cover;
+    background-position: center;
 }
 
 .right {
