@@ -105,6 +105,24 @@ p {
 
 }
 
+
+.image-1 {
+    background-image: url('../images/beopen.jpg');
+}
+
+.image-2 {
+    background-image: url('../images/Embrace.png');
+}
+
+.image-3 {
+    background-image: url('../images/getactive.jpg');
+}
+
+.image-4 {
+    background-image: url('../images/keepinmind.jpg');
+}
+
+
 .learning .card {
     width: calc((100% - 80px) / 4);
     border: 1px solid rgb(216, 215, 215);
@@ -112,7 +130,6 @@ p {
 
 .learning .card .image {
     height: 200px;
-    background-image: url(https://toohotel.com/wp-content/uploads/2022/09/TOO_restaurant_Panoramique_vue_Paris_Seine_Tour_Eiffel_2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -125,7 +142,21 @@ p {
 
 
 
+.cta {
+    padding: 150px 0;
+    background: salmon;
+    text-align: center;
+}
 
+.cta-contain {
+    max-width: 600px;
+}
+
+.cta h3 {
+    font-size: 30px;
+    color: white;
+    margin-bottom: 15px;
+}
 
 
 
