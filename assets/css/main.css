@@ -84,3 +84,10 @@ p {
     background-blend-mode: multiply;
     border: 8px solid silver;
 }
+
+.learning {
+    text-align: center;
+    max-width: 700px;
+    width: 90%;
+
+}
