@@ -46,6 +46,8 @@
 
 
 <section class="learning">
+    <div class="container1">
+    <div class="learning-flex">
 <div class="card1">
     <div class="left">
         <h1>Be Open</h1>
@@ -56,6 +58,19 @@
         responding. The online environment should be open and friendly.</p>
     </div>
     <div class="right"></div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
 
     <div class="card2">
     <div class="left">
@@ -79,9 +94,20 @@
         <li>Enjoy communicating in writing</li>
     </ol>
     </div>
-   
+   </div>
+    </div>
 </div>
 </section>
+
+
+
+
+
+
+
+
+
+
 
 <section class="cta">
 <div class="resources">
