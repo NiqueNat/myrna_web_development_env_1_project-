@@ -20,7 +20,7 @@ body {
 .banner {
 
     height: 800px;
-    background: url(../images/aboutme.png) rgba(255, 215, 0, 80%);
+    background: url(../images/aboutme.png) rgba(171, 192, 248, 0.315);
     background-position: center;
     background-size: cover;
     display: flex;
