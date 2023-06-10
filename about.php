@@ -16,13 +16,22 @@
     <a href="index.php">Welcome</a>
     <a href="about.php">About</a>
     </header>
-    <section class="about">
+    <section class="bg-about">
     <div class="text-box">
         <h1>About Me</h1>
-        <p>As an online student I have be resilient and determined as a key factors in success. Adult learners face many obstacles and setbacks, such as work and family responsibilities, financial constraints, and personal challenges. However, as a resilient learner, I can overcome these obstacles and persist in my studies. I am able to adapt to changing circumstances and seek out support and resources when needed. 
-        <br>    
-        Determined learners are those who remain focused on their goals and are willing to put in the time and effort required to achieve them. I am not deterred by setbacks or failures and can learn from my mistakes.</p>
+        <p>As an online student I have be resilient and determined as a key factors in success. </p>
     </div>
+    </section>
+
+    <section class="info">
+        <div class="info-flex">
+            <h2>Determination</h2>
+            <div class="left"></div>
+            <div class="right">
+            <p>Adult learners face many obstacles and setbacks, such as work and family responsibilities, financial constraints, and personal challenges.</p>
+            </div>
+                
+        </div>
     </section>
      
 </body>

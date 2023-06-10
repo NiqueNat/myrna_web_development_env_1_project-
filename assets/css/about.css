@@ -14,7 +14,7 @@ body {
     padding: 80px 0;
 }
 
-.about {
+.bg-about {
 
     background-image: url('../images/aboutme.png');
     min-height: 100vh;
