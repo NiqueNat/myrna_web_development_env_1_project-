@@ -48,26 +48,26 @@
             <h2>Learning</h2>
             <div class="learning-flex">
 
-            <div class="card1">
+            <div class="card">
             <div class="info">
             <h2>Be Open</h2>
             <p>Be open minded about sharing life, work, and educational experiences as part of the learning process.
             Introverts as well as extroverts find that the online process requires them to utilize their
             experiences.</p>
             </div>
-            <div class="image"></div><!--  end of card -->
+            <div class="image-1"></div><!--  end of card -->
             </div>
 
-            <div class="card2">
+            <div class="card">
             <div class="info">
             <h2>Embrace Online Learning</h2>
             <p>Embrace that high quality learning can take place without going to a traditional classroom. If the
             student feels that a traditional classroom is a prerequisite to learning, they may be more comfortable
             in the traditional classroom. Online is not for everybody. </p>
 
-            <div class="image"></div><!--  end of card -->
+            <div class="image-2"></div><!--  end of card -->
             </div>
-            <div class="card3">
+            <div class="card">
             <div class="info">
             <h2>Get Active</h2>
             <ol>
@@ -78,10 +78,10 @@
             <li>Be able to complete assignments on time</li>
             <li>Enjoy communicating in writing</li>
             </ol>
-            <div class="image"></div><!--  end of card -->
+            <div class="image-3"></div><!--  end of card -->
             </div>
 
-            <div class="card4">
+            <div class="card">
             <div class="info">
             <h2>Keep In Mind</h2>
             <p>A student that wants to be on a traditional
@@ -89,7 +89,7 @@
             social interaction can be very high in the virtual classroom given that many barriers come down in the
             online format, it is not the same as living in a dorm on a campus. This should be made known. An online
             student is expected to:</p>
-            <div class="image"></div><!--  end of card -->
+            <div class="image-4"></div><!--  end of card -->
             </div>
             </div>
             </div>

@@ -91,40 +91,37 @@ body {
 }
 
 
-.card1 {
+.image-1 {
     background-image: url('../images/beopen.jpg');
 }
 
-.card2 {
+.image-2 {
     background-image: url('../images/Embrace.png');
 }
 
-.card3 {
+.image-3 {
     background-image: url('../images/getactive.jpg');
 }
 
-.card4 {
+.image-4 {
     background-image: url('../images/keepinmind.jpg');
 }
 
 
-.learning {
-    width: calc((100% - 60px) / 4);
+.card {
+    width: calc(100% / 2 - 20px);
     border: 1px solid rgb(216, 215, 215);
 }
 
-.learning .image {
-    height: 300px;
+.image {
+    height: 200px;
     background-size: cover;
     background-position: center;
-
 }
 
-.learning .info {
-    padding: 10px 20px 30px;
+.info {
     background: white;
-    text-align: center;
-
+    padding: 10px 8px 15px;
 }
 
 
@@ -148,26 +145,6 @@ body {
     color: white;
     margin-bottom: 15px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 @media only screen and (max-width: 800px) {
