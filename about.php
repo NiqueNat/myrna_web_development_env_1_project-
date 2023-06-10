@@ -25,8 +25,8 @@
     </section>
 
     <section class="about">
-          <h2>Determination</h2>
         <div class="container">
+               <h2>Determination</h2>
         <div class="about-flex">
           
         <div class="left"></div>
