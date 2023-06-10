@@ -1,6 +1,4 @@
 
-<?php include 'header.php'; ?>
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -19,7 +17,6 @@
 <header class="page-header">
 		<div class="container">
 			<div class="header-flex">
-				<div class="logo">
 					<a href="index.html">
 						
 				</div>
@@ -38,63 +35,22 @@
 						</li>
 					</ul>
 				</nav>
-			</div>
-		</div>
 	</header>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
       <section class="welcome">
     <div class="container">
         <h1>Building the Online Student</h1>
-        <p>Like the facilitator, the online student possesses unique qualities. The online students of today consist primarily of working people who are trying to better their opportunities.</p>
-            <br>
-        Be open minded about sharing life, work, and educational experiences as part of the learning process. Introverts as well as extroverts find that the online process requires them to utilize their experiences. This forum for communication eliminates the visual barriers that hinder some individuals in expressing themselves. In addition, the student is given time to reflect on the information before responding. The online environment should be open and friendly.</p>
+        <p>Like the facilitator, the online student possesses unique qualities. The online students of today consist primarily of working people who are trying to better their opportunities.</p>        
     </div>
     </section>
 
     <section class="learning">
         <div class="container">
+
+        <p>Be open minded about sharing life, work, and educational experiences as part of the learning process. Introverts as well as extroverts find that the online process requires them to utilize their experiences. This forum for communication eliminates the visual barriers that hinder some individuals in expressing themselves. In addition, the student is given time to reflect on the information before responding. The online environment should be open and friendly.</p>
+        
             <h1>Embrace Online Learning</h1>
             <p>Embrace that high quality learning can take place without going to a traditional classroom. If the student feels that a traditional classroom is a prerequisite to learning, they may be more comfortable in the traditional classroom. Online is not for everybody. A student that wants to be on a traditional campus attending a traditional classroom is probably not going to be happy online. While the level of social interaction can be very high in the virtual classroom given that many barriers come down in the online format, it is not the same as living in a dorm on a campus. This should be made known. An online student is expected to:
                 <ol>
