@@ -39,6 +39,14 @@ h1 {
 
 }
 
+h2 {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 34px;
+    padding: 25px 0;
+
+}
+
 p {
 
     margin-bottom: 20px;
