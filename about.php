@@ -1,19 +1,19 @@
-<?php include 'header.php'; ?>
+    <?php include 'header.php'; ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>myrna_web_development_env_1_project</title>
-    
-    <link rel="stylesheet" href="assets/css/about.css">
-</head>
 
-<body>
+    <link rel="stylesheet" href="assets/css/about.css">
+    </head>
+
+    <body>
     <header class="page-header">
-<div class="container">
+    <div class="container">
     <div class="header-flex">
         <a href="index.html">
 
@@ -33,7 +33,7 @@
             </li>
         </ul>
     </nav>
-</header>
+    </header>
 
 
     <section class="banner">
@@ -44,19 +44,18 @@
 
     <section class="about">
         <div class="container">
-               <h2>Determination</h2>
+                <h2>Determination</h2>
         <div class="about-flex">
-          
+            
         <div class="left"></div>
         <div class="right">
-                <p>As an online student I have be resilient and determined as a key factors in success. </p>
+                <p>As an online student I have to be resilient and determined. That is the key factors in success. </p>
                 <br>
-                <p>Adult learners face many obstacles and setbacks, such as work and family responsibilities, financial constraints, and personal challenges.</p>
-        </div>
-                
+                <p>Adult learners face many obstacles and setbacks, such as work and family responsibilities, financial constraints, and personal challenges. But we have experiance that allows us to deal with it.</p>
+        </div>        
         </div>
         </div>
     </section>
-     
-</body>
-</html>
+        
+    </body>
+    </html>
