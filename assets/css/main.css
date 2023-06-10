@@ -6,28 +6,14 @@
 
 body {
     color: rgb(4, 12, 58);
+    font-family: Helvetica, sans-serif;
 }
 
-section {
-    padding: 80px 0;
-}
-
-h1 {
-    font-size: 60px;
-    margin-bottom: 10px;
-
-}
-
-h2 {
-    font-size: 30px;
-    margin-bottom: 15px;
-
-}
-
-p {
-    font-size: 48px;
-    line-height: 1.4;
-
+.container {
+    max-width: 900px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .page-header {
@@ -72,6 +58,11 @@ p {
 
 }
 
+.textbox h1 {
+    font-size: 90px;
+    font-weight: 300;
+}
+
 .welcome {
     min-height: 100vh;
     padding: 150px 0;
@@ -85,12 +76,6 @@ p {
     border: 8px solid silver;
 }
 
-.container {
-    max-width: 900px;
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 .learning {
 
@@ -100,7 +85,7 @@ p {
 .learning-flex {
 
     display: flex;
-
+    flex-wrap: wrap;
     gap: 20px;
 
 }
@@ -129,7 +114,7 @@ p {
 }
 
 .learning .card .image {
-    height: 200px;
+    height: 400px;
     background-size: cover;
     background-position: center;
 }
