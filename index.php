@@ -38,7 +38,7 @@
 
         <section class="welcome">
             <div class="text-box">
-            <h1>Building the Online Student</h1>
+            <h1>Building The Online Student</h1>
             </div>
         </section>
 
