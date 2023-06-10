@@ -55,11 +55,6 @@
             <div class="left-4"></div>
             </div>
 
-
-
-
-
-            <!-- card 01 -->
             <div class="right">
             <div class="info-1">
             <h2>Be Open</h2>
@@ -85,10 +80,6 @@
             </ol>
             </div>
      
-
-            
-       
-        
             <div class="info">
             <h2>Keep In Mind</h2>
             <p>A student that wants to be on a traditional
@@ -99,9 +90,6 @@
             student is expected to:</p>
             </div>
          
-            
-
-
             </div>
             </div>
         </section>
