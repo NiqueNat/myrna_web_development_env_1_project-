@@ -6,7 +6,7 @@
 
 body {
     font-family: serif;
-    background-color: rgb(247, 239, 216);
+    background-color: white;
 }
 
 
@@ -15,13 +15,14 @@ body {
 }
 
 .flex {
+    background-color: rgb(247, 239, 216);
     margin-top: auto;
     margin-bottom: auto;
 }
 
 .info-flex {
 
-    background-color: whitesmoke;
+
     margin-top: auto;
     margin-bottom: auto;
     justify-content: center;
