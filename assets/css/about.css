@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: white;
+    background-color: rgb(219, 205, 125);
 }
 
 
@@ -15,7 +15,7 @@ body {
 }
 
 .info {
-    background-color: rgb(250, 224, 145);
+    background-color: white;
     margin-top: auto;
     margin-bottom: auto;
     text-align: center;
