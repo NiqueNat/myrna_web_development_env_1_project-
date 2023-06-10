@@ -79,5 +79,5 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-blend-mode: overlay;
+    background-blend-mode: multiply;
 }
