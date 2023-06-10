@@ -24,8 +24,9 @@
     </section>
 
     <section class="info">
+          <h2>Determination</h2>
         <div class="info-flex">
-            <h2>Determination</h2>
+          
             <div class="left"></div>
             <div class="right">
             <p>Adult learners face many obstacles and setbacks, such as work and family responsibilities, financial constraints, and personal challenges.</p>
