@@ -21,6 +21,76 @@
     <a href="about.php">About</a>
 </header>  
 
+
+<header class="page-header">
+		<div class="container">
+			<div class="header-flex">
+				<div class="logo">
+					<a href="index.html">
+						<img src="https://artstartsto.com/wp-content/uploads/2022/06/toronto-logo-png-transparent-e1663874591459.png" alt="">
+					</a>
+				</div>
+
+				<div class="andres">
+					<i class="fa-solid fa-bars"></i>
+				</div>
+
+				<nav>
+					<ul class="header-menu">
+						<li>
+							<a href="index.php">Welcome</a>
+						</li>
+						<li>
+							<a href="about.php">About</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       <section class="welcome">
     <div class="container">
         <h1>Building the Online Student</h1>

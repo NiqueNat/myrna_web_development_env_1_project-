@@ -65,6 +65,7 @@ h2 {
 
     font-size: 24px;
     text-align: center;
+    margin-bottom: 15px;
 
 }
 
@@ -80,8 +81,8 @@ p {
 
 .left {
     width: 50%;
-    background-image: url('../images/determination.png');
     height: 400px;
+    background-image: url('../images/determination.png');
     background-size: cover;
     background-position: center;
 }
