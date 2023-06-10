@@ -21,6 +21,8 @@ body {
     margin-bottom: auto;
     justify-content: center;
     align-items: center;
+    display: flex;
+    gap: 30px;
 
 }
 

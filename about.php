@@ -16,8 +16,8 @@
     <a href="index.php">Welcome</a>
     <a href="about.php">About</a>
     </header>
-    <section class="bg-about">
-    <div class="text-box">
+    <section class="about">
+    <div class="container">
         <h1>About Me</h1>
         <p>As an online student I have be resilient and determined as a key factors in success. </p>
     </div>
