@@ -103,41 +103,12 @@ p {
     display: flex;
     gap: 25px;
 
-
 }
-
-
-h1 {
-
-
-    font-size: 34px;
-    padding: 15px 0;
-    text-align: center;
-
-}
-
-h2 {
-
-    font-size: 24px;
-    text-align: center;
-    margin-bottom: 15px;
-
-}
-
-p {
-
-
-    font-size: 18px;
-    text-align: center;
-}
-
-
-
 
 .left {
     width: 50%;
     height: 400px;
-    background-image: url('../images/determination.png');
+    background-image: url('../images/blue library.jpg');
     background-size: cover;
     background-position: center;
 }
