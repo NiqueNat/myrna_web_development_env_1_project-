@@ -50,7 +50,7 @@
         <div class="left"></div>
         <div class="right">
                 <p>As an online student I have be resilient and determined as a key factors in success. </p>
-
+                <br>
                 <p>Adult learners face many obstacles and setbacks, such as work and family responsibilities, financial constraints, and personal challenges.</p>
         </div>
                 
