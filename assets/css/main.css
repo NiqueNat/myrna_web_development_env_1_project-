@@ -78,7 +78,7 @@ body {
 
 
 .learning {
-    padding: 100px 0;
+
     background: rgb(219, 227, 240);
 }
 
@@ -108,22 +108,24 @@ body {
 }
 
 
-.card {
-    width: calc(100% / 2 - 20px);
-    background: white;
+.learning .card {
+    width: calc((100% - 60px) / 2);
+    border: 1px solid rgb(219, 227, 247);
 }
 
-.image {
+.learning .card .image {
     height: 200px;
     background-size: cover;
     background-position: center;
 }
 
-.info {
+.learning .card .info {
     background: white;
-    padding: 10px 8px 15px;
+    padding: 10px 20px 30px;
+    text-align: center;
 }
 
+/*
 .card h2 {
     font-size: 24px;
     margin-bottom: 18px;
@@ -133,7 +135,7 @@ body {
     color: rgb(243, 239, 239);
     text-transform: capitalize;
 }
-
+*/
 
 
 
