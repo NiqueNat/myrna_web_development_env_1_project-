@@ -36,6 +36,8 @@ body {
 }
 
 .about {
+    margin-top: auto;
+    margin-bottom: auto;
     padding: 100px 0;
     background: lightgrey;
 
@@ -45,8 +47,7 @@ body {
 
     display: flex;
     gap: 25px;
-    margin-top: auto;
-    margin-bottom: auto;
+
 
 }
 
