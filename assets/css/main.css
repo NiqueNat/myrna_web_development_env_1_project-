@@ -6,7 +6,6 @@
 
 body {
     color: rgb(4, 12, 58);
-    font-family: Helvetica, sans-serif;
 }
 
 .container {
@@ -85,57 +84,58 @@ body {
 .learning-flex {
 
     display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
+    gap: 50px;
 
 }
 
 
-.image-1 {
+.card1 {
     background-image: url('../images/beopen.jpg');
 }
 
-.image-2 {
+.card2 {
     background-image: url('../images/Embrace.png');
 }
 
-.image-3 {
+.card3 {
     background-image: url('../images/getactive.jpg');
 }
 
-.image-4 {
+.card4 {
     background-image: url('../images/keepinmind.jpg');
 }
 
 
-.learning .card {
-    width: calc((100% - 80px) / 4);
+.learning {
+
     border: 1px solid rgb(216, 215, 215);
 }
 
-.learning .card .image {
+.learning.right {
     height: 400px;
     background-size: cover;
     background-position: center;
+    width: 50%;
 }
 
-.learning .card .info {
+.learning .left {
     padding: 10px 20px 30px;
     background: white;
     text-align: center;
+    width: 50%;
 }
 
 
 
 .cta {
-    padding: 150px 0;
-    background: salmon;
+    padding: 100px 0;
+    background: rgb(153, 198, 235);
     text-align: center;
 
 }
 
 .cta-contain {
-    max-width: 900px;
+
     align-items: center;
     justify-content: center;
 
