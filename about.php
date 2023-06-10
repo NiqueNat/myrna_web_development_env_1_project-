@@ -12,14 +12,32 @@
 </head>
 
 <body>
-    <header>
-    <a href="index.php">Welcome</a>
-    <a href="about.php">About</a>
-    </header>
+    <header class="page-header">
+<div class="container">
+    <div class="header-flex">
+        <a href="index.html">
+
+    </div>
+
+    <div class="andres">
+        <i class="fa-solid fa-bars"></i>
+    </div>
+
+    <nav>
+        <ul class="header-menu">
+            <li>
+                <a href="index.php">Welcome</a>
+            </li>
+            <li>
+                <a href="about.php">About</a>
+            </li>
+        </ul>
+    </nav>
+</header>
 
 
     <section class="banner">
-    <div class="text-b0x">
+    <div class="text-box">
         <h1>About Me</h1>
     </div>
     </section>
