@@ -114,7 +114,7 @@ body {
 }
 
 .image {
-    height: 400px;
+    height: 200px;
     background-size: cover;
     background-position: center;
 }
@@ -130,7 +130,7 @@ body {
 }
 
 .card p {
-    color: grey;
+    color: rgb(243, 239, 239);
     text-transform: capitalize;
 }
 
