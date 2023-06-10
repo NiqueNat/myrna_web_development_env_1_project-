@@ -20,6 +20,18 @@ h2 {
 }
 
 p {
-    font-size: 18px;
+    font-size: 48px;
     line-height: 1.4;
+}
+
+.page-header {
+    position: fixed;
+    width: 100%;
+    transition: .5s;
+}
+
+.page-header {
+    position: fixed;
+    width: 100%;
+    transition: .5s;
 }
