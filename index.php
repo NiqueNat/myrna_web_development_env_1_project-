@@ -49,10 +49,7 @@
             <div class="learning-flex">
 
             <div class="left">
-            <div class="left-1"></div>
-            <div class="left-2"></div>
-            <div class="left-3"></div>
-            <div class="left-4"></div>
+            <div class="image"></div>
             </div>
 
             <div class="right">
