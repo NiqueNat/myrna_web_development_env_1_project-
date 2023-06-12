@@ -61,6 +61,7 @@
         </div>
         </div>
     </section>
+
         <section class="cta">
         <div class="cta-contain">
         <div class="resources">
@@ -149,8 +150,7 @@
         }
         });
         </script>
+        
         </body>
-
         </html>
-    </body>
-    </html>
+   
