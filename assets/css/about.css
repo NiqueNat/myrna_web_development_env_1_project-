@@ -115,25 +115,36 @@ p {
 
 
 .cta {
-    padding: 100px 0;
-    background: rgb(153, 198, 235);
+    padding: 150px 0;
+    background: #C5EAF2;
     text-align: center;
-
+    color: #3D656E;
 }
 
-.cta-contain {
-
-    align-items: center;
-    justify-content: center;
-
+.cta .container {
+    max-width: 600px;
 }
 
 .cta h3 {
     font-size: 30px;
-    color: white;
     margin-bottom: 15px;
 }
 
+.cta .btn {
+    padding: 15px 15px;
+    display: inline-block;
+    color: #3D656E;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px solid #C5EAF2;
+    box-shadow: 1px 1px 1px #1e606e;
+    background-color: transparent;
+    margin: 30px 0;
+}
+
+.footer {
+    background-color: #0f2b31;
+}
 
 @media only screen and (max-width: 800px) {
 
