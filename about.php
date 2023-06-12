@@ -12,12 +12,12 @@
     </head>
 
     <body>
- <header class="page-header">
+<header class="page-header">
 		<div class="container">
 			<div class="header-flex">
 				<div class="logo">
-					<a href="index.html">
-						<img src="images/logoT-removebg1.png" alt="" width="75" height="75">
+					<a href="index.php">
+						<img src='../assets\images\starryai-0-794568397-1-0-photo.png' alt="" width="75" height="75">
 					</a>
 				</div>
 
