@@ -28,10 +28,10 @@
 				<nav>
 					<ul class="header-menu">
 						<li>
-							<a href='inex.php'>Home</a>
+							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<a href='aboutme.php'>About Me</a>
+							<a href="aboutme.php">About Me</a>
 						</li>
 						
 					</ul>

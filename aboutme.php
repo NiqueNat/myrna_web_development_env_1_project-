@@ -31,7 +31,7 @@
 							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<a href="aboutme.php">About Me</a>
+							<a href="aboutme.php">About</a>
 						</li>
 						
 					</ul>
