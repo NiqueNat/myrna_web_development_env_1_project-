@@ -118,9 +118,8 @@
         <li>Open Culture</li>
         <li>Free Code camp</li>
         </ul>
-
-        <a href="">Resources</a>
         </div>
+        <a href="">Resources</a>
         </div>
         </section>
 
