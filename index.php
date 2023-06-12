@@ -13,26 +13,32 @@
         <body>
 
         <header class="page-header">
-            <div class="container">
-            <div class="header-flex">
-            <a href="index.html">
-            </div>
+		<div class="container">
+			<div class="header-flex">
+				<div class="logo">
+					<a href="index.html">
+						<img src="images/logoT-removebg1.png" alt="" width="75" height="75">
+					</a>
+				</div>
 
-            <div class="andres">
-            <i class="fa-solid fa-bars"></i>
-            </div>
+				<div class="andres">
+					<i class="fa-solid fa-bars"></i>
+				</div>
 
-            <nav>
-            <ul class="header-menu">
-            <li>
-            <a href="index.php">Welcome</a>
-            </li>
-            <li>
-            <a href="about.php">About</a>
-            </li>
-            </ul>
-            </nav>
-        </header>
+				<nav>
+					<ul class="header-menu">
+						<li>
+							<a href="">Home</a>
+						</li>
+						<li>
+							<a href="">About Me</a>
+						</li>
+						
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</header>
 
 
 
