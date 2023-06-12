@@ -144,6 +144,9 @@ p {
 
 .footer {
     background-color: #0f2b31;
+    padding: 150px 0;
+    text-align: center;
+    color: white;
 }
 
 @media only screen and (max-width: 800px) {

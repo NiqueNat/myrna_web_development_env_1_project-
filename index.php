@@ -122,7 +122,7 @@
 
     <section class="footer">
 		<footer>
-      <h1>Thanks for stopping by.</h1>
+      <h3>Thanks for stopping by.</h3>
 		</footer>
 	</section>
 
