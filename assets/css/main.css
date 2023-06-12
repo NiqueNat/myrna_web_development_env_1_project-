@@ -124,24 +124,16 @@ h1 {
     color: white;
     text-transform: uppercase;
     text-decoration: none;
-    border: 1px solid white;
-    box-shadow: 1px 1px 1px #C5EAF2;
+    border: 1px solid #C5EAF2;
+    box-shadow: 1px 1px 1px #1e606e;
     background-color: transparent;
     margin: 30px 0;
 }
 
 .footer {
-    background-color: #413236;
-    color: white;
-    font-weight: 100;
-    text-align: left;
-    font-size: 14px;
+    background-color: #0f2b31;
 }
 
-.footer-flex {
-    display: flex;
-    gap: 30px;
-}
 
 
 @media only screen and (max-width: 800px) {

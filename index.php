@@ -122,52 +122,7 @@
 
     <section class="footer">
 		<footer>
-			<div class="container">
-				<div class="footer-flex">
-					<div class="ft-about">
-						<h4>About Craft</h4>
-						<br>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
-
-						<div class="img-icons">
-							<a href="">
-								<img src="images/icons-removebg-preview.png" alt="" width="75" height="75">
-							</a>
-						</div>
-					</div>
-
-					<div class="contact">
-						<h4>Contact Info</h4>
-						<h6>Address </h6>
-						<p>34 St.urbin, Montreal, Canada</p>
-						<h6>Telephone</h6>
-						<p>+1 514 678 9034</p>
-						<h6>Email </h6>
-						<p>info@lai.ca</p>
-					</div>
-
-					<div class="quick-links">
-						<h4>Quick Links</h4>
-						<ul class="links">
-							<li>
-								<a href="">About</a>
-							</li>
-							<li>
-								<a href="">Terms Of Use</a>
-							</li>
-							<li>
-								<a href="">Disclaimers</a>
-							</li>
-							<li>
-								<a href="">Contact</a>
-							</li>
-						</ul>
-					</div>
-
-				</div>
-
-			</div>
-
+            <h4>Thanks For Stopping By.</h4>
 		</footer>
 	</section>
 
