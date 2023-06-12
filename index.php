@@ -96,16 +96,31 @@
 
 
 
-        	<section class="cta">
-		<div class="container">
-			<h3>Do You Have An Awesome Project In Mind?</h3>
-			<p>Lorem ipsum dolor sit, amet consectetur adipisicing <br> elit. Ipsa, saepe.</p>
+        
 
-			<a href="" class="btn">Create With Us!</a>
+        <section class="cta">
+		<div class="container">
+			<div class="resources">
+        <h3>Top eLearning Resources For Effective Learning Today</h3>
+        <ul>
+        <li>Coursera</li>
+        <li>edX</li>
+        <li>YouTube</li>
+        <li>Lynda</li>
+        <li>Udemy</li>
+        <li>Alison</li>
+        <li>Khan Academy</li>
+        <li>MIT Open Courseware</li>
+        <li>Open Culture</li>
+        <li>Free Code camp</li>
+        </ul>
+
+        <a href="" class="btn">Resources</a>
+        </div>
 		</div>
 	</section>
 
-	<section class="footer">
+    <section class="footer">
 		<footer>
 			<div class="container">
 				<div class="footer-flex">
@@ -155,7 +170,6 @@
 
 		</footer>
 	</section>
-
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"
         integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw=="
