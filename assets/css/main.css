@@ -102,25 +102,44 @@ h1 {
 }
 
 
-
 .cta {
-    padding: 100px 0;
-    background: rgb(153, 198, 235);
+    padding: 150px 0;
+    background: #dad2c7;
     text-align: center;
-
+    color: #413236;
 }
 
-.cta-contain {
-
-    align-items: center;
-    justify-content: center;
-
+.cta .container {
+    max-width: 600px;
 }
 
 .cta h3 {
     font-size: 30px;
-    color: white;
     margin-bottom: 15px;
+}
+
+.cta .btn {
+    padding: 10px 10px;
+    display: inline-block;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px solid white;
+    box-shadow: 1px 1px 1px #8c4a3b;
+    background-color: transparent;
+}
+
+.footer {
+    background-color: #413236;
+    color: white;
+    font-weight: 100;
+    text-align: left;
+    font-size: 14px;
+}
+
+.footer-flex {
+    display: flex;
+    gap: 30px;
 }
 
 
