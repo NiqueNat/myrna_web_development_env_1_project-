@@ -104,9 +104,9 @@ h1 {
 
 .cta {
     padding: 150px 0;
-    background: #dad2c7;
+    background: #C5EAF2;
     text-align: center;
-    color: #413236;
+    color: #3D656E;
 }
 
 .cta .container {
@@ -125,7 +125,7 @@ h1 {
     text-transform: uppercase;
     text-decoration: none;
     border: 1px solid white;
-    box-shadow: 1px 1px 1px #8c4a3b;
+    box-shadow: 1px 1px 1px #C5EAF2;
     background-color: transparent;
 }
 
